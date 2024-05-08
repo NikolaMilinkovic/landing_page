@@ -1,5 +1,3 @@
-![Example Image](/img/battleship.png)
-
 # Landing Page
 One of the first projects from The Odin Project curriculum.<br>
 Great reminder of how my skills have improved over time.
