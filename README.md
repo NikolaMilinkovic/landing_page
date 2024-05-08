@@ -1,8 +1,10 @@
-## Live link
-https://nikolamilinkovic.github.io/landing_page/
+![Example Image](/img/battleship.png)
 
-# Landing-Page
-This project is just a test of the skills that I have aquired during the course of the Odin Project.
-I do not own any of the images used in this site.
-All the rights go to their respective owners.
-Most of the images used come from www.wallpaper-house.com
+# Landing Page
+One of the first projects from The Odin Project curriculum.<br>
+Great reminder of how my skills have improved over time.
+
+[Live Demo](https://nikolamilinkovic.github.io/landing_page/) ✨
+
+## 💻 Built With
+![javascript](https://skillicons.dev/icons?i=html,css&perline=10)
